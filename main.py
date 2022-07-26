@@ -6,8 +6,8 @@ import pyautogui
 import pyperclip
 import time
 import pandas as pd
-import openpyxl
-import numpy
+# import openpyxl
+# import numpy
 from IPython.display import display
 
 pyautogui.PAUSE = 0.5
